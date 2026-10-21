@@ -9,16 +9,21 @@ revenue yet. No entity yet. Nothing shipped yet.
 
 ## Right now
 
-- Thesis drafted in `company/strategy/thesis.md`. Awaiting Owner sign-off.
+- Research complete: business models, wealth mechanics, AI infrastructure (`company/research/`).
+- Thesis drafted in `company/strategy/thesis.md`: "Never Miss a Lead" productized AI service for one
+  SMB vertical, profits into index funds, delivery system becomes software. Awaiting Owner sign-off.
 - 90-day plan drafted. Week 1 starts the day the Owner approves.
-- Agent team defined. Slash commands live.
-- Memory system live (this file, decisions, lessons, boss profile).
+- Wealth OS drafted in `company/wealth/wealth-os.md`. Multi-model stack in `company/playbooks/`.
+- Agent team defined (7 agents). Slash commands live. Memory system live. Mac mini playbook written.
+- Org profile README repositioned away from "autonomous trading."
+- Draft PR #1 open with all of the above.
 
 ## Next 3 moves
 
 1. Owner reads the thesis and the 90-day plan, approves or pushes back (`/decide` if torn).
 2. Owner fills in `company/memory/boss-profile.md` (skills, hours, cash, network, city).
-3. Week 1 of the plan: pick the niche, build the offer, start outreach.
+3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
+4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.
 
 ## Open questions for the Owner
 
