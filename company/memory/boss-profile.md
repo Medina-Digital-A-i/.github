@@ -34,6 +34,15 @@ changes. Nothing here leaves the repo.
 - AI subscriptions (Claude plan, ChatGPT, Gemini, other):
 - Connected tools (Gmail, Calendar, Drive, QuickBooks, HubSpot, Shopify, Canva, etc.):
 
+## What the Owner has told the CEO (running log)
+- 2026-10-21: "I want to solve problems too. I want to do science and research and make things."
+  The Owner is not only a business owner. They want to build, research, and invent. Any plan
+  that treats them as a sales rep only is wrong. Give them problems to solve and things to make.
+- 2026-10-21: Does not want heavy cold selling. Prefers inbound, marketplaces, products.
+- 2026-10-21: Non-technical today. Does not yet understand the terminal, Claude Code, or what the
+  Mac mini is for. Explain in plain language, always.
+- 2026-10-21: Wants the CEO to always remember things. Memory system is the top priority.
+
 ## Goals and constraints
 - Target net worth and by when:
 - Income needed per month to feel safe:

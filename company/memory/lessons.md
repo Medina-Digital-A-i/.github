@@ -1,5 +1,9 @@
 # Lessons
 
+## 2026-10-21 — The Owner is a builder, not just a buyer
+- The Owner wants to solve problems, do science and research, and make things. Plans must give
+  them a maker's role. Explain every tool in plain language before assuming it is understood.
+
 What we learned, so we do not pay for it twice. Newest first. Reviewed in `/weekly`.
 
 ## 2026-10-21 — Founding
