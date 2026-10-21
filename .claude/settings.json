@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh -c 'echo \"=== MEDINA DIGITAL AI: CURRENT STATE (company/memory/state.md) ===\"; cat \"$CLAUDE_PROJECT_DIR/company/memory/state.md\" 2>/dev/null; echo; echo \"=== Owner to-dos and open questions above. Run /brief for the daily brief. ===\"'"
+          }
+        ]
+      }
+    ]
+  }
+}
