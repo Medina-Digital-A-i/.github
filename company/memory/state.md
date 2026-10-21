@@ -4,9 +4,10 @@ _Updated: 2026-10-21 (founding session)_
 
 ## Phase
 
-**Phase 0 — Founding.** Operating system built. First thesis drafted and challenged by the Owner
-(too sales-heavy, pricing high). Deep research round 2 in progress to find a better plan. No
-revenue yet. No entity yet. Nothing shipped yet.
+**Phase 0 — Founding.** Operating system built. Thesis v1 challenged by the Owner. Round-2 deep
+research done (six reports). Idea bank with 12 scored ideas. Thesis v2 ("AI Back Office")
+drafted as the candidate. Lab lane added for the Owner's research and building. No revenue, no
+entity, nothing shipped yet.
 
 ## Right now
 
@@ -21,8 +22,8 @@ revenue yet. No entity yet. Nothing shipped yet.
 
 ## Next 3 moves
 
-1. Owner reads the thesis and the 90-day plan, approves or pushes back (`/decide` if torn).
-   Trading removal already approved.
+1. Owner reads `company/strategy/idea-bank.md` and `thesis-v2.md`, picks v2, v1, or a different
+   idea from the bank (`/decide` if torn).
 2. Owner fills in `company/memory/boss-profile.md` (skills, hours, cash, network, city).
 3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
 4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.

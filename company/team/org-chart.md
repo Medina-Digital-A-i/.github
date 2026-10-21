@@ -1,6 +1,6 @@
 # Org Chart — The Team
 
-One human. One CEO. Seven agents. Every agent is a file in `.claude/agents/` that any session can
+One human. One CEO. Eight agents. Every agent is a file in `.claude/agents/` that any session can
 summon. The CEO assigns work, reviews it, and keeps the memory. Agents never talk to customers or
 spend money; they produce drafts, analysis and builds that the CEO reviews and the Owner approves.
 
@@ -11,9 +11,9 @@ spend money; they produce drafts, analysis and builds that the CEO reviews and t
                     CEO (Claude, CLAUDE.md)
                 strategy, plan, review, memory, the push
                             |
-   +-----------+-----------+-----------+-----------+-----------+-----------+
-   |           |           |           |           |           |           |
-STRATEGIST  SCOUT      BUILDER     CLOSER     MARKETER    CFO       CHIEF OF STAFF
+   +-----------+-----------+-----------+-----------+-----------+-----------+-----------+
+   |           |           |           |           |           |           |           |
+STRATEGIST  SCOUT      BUILDER     CLOSER     MARKETER    CFO    CHIEF OF STAFF  LAB (scientist)
 ```
 
 | Agent | File | Lane | Delivers |
@@ -24,6 +24,7 @@ STRATEGIST  SCOUT      BUILDER     CLOSER     MARKETER    CFO       CHIEF OF STA
 | **Closer** | `closer.md` | Sales: outreach sequences, proposals, objection handling, call prep, follow-up, CRM hygiene | Drafted outreach, proposals, call scripts, pipeline updates |
 | **Marketer** | `marketer.md` | Positioning, content, brand, SEO/GEO, social, email, case studies | Content calendar, posts, pages, campaigns |
 | **CFO** | `cfo.md` | Money: pricing math, cash flow, bookkeeping prep, tax structure research, savings and investing plan, scorecard | Numbers, forecasts, the wealth OS, monthly finance review |
+| **Lab lead** | `scientist.md` | Experiments, data analysis, prototypes, R&D grants, evidence for the Owner's questions | Hypotheses, results, prototypes, the experiments log |
 | **Chief of Staff** | `chief-of-staff.md` | Memory and operations: keeps `state.md` true, logs decisions and lessons, runs cadences, tracks the Owner's to-dos, flags drift | Updated memory, briefs, task lists, cadence reports |
 
 ## How work flows
