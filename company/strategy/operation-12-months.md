@@ -12,6 +12,8 @@ of: their own cash, a license, an existing network, or a distribution channel bu
 
 | Path | Best 12-month P($1M gross) | Median year one | Fee or unit size |
 |------|----------------------------|-----------------|------------------|
+| Government contracts via teaming/JV with an established small business | 10-15% (15-20% with a veteran, woman-owned or HUBZone status) | $100-300k | awards $0.5-3M, margin 10-20% |
+| NYC/NYS no-bid purchases for certified MWBE/SDVOB firms, up to $1.5M | 8-12% if eligible, 0% if not | $325k average award | |
 | Land + commercial/multifamily wholesaling | 3% | $60-150k | $8-25k land; $50-250k commercial |
 | Transferable clean-energy tax credits | 3% | $0-150k (binary) | $75-300k per deal |
 | Lower-middle-market M&A finder | 2% | $0-200k | $150-700k per close |
@@ -20,9 +22,14 @@ of: their own cash, a license, an existing network, or a distribution channel bu
 | Product portfolio (4-6 launches) | 4% ARR, 6-8% any $1M outcome | $15-25k | subscriptions |
 | Residential wholesaling | 1.5% | $40-120k | $13k average |
 
-So the honest odds of $1M in 12 months on any single path are 2-4%. Stack three paths that share
-the same skills and the union gets to roughly 8-12% for $1M gross within 12-18 months, with a
-median outcome of $150-300k in year one. Those are the numbers. I will not inflate them.
+So the honest odds of $1M in 12 months on most single paths are 2-4%. The exception is government
+contracting through a joint venture with an established small business, where the rules let the
+new firm borrow the partner's past performance: 10-15%, and 15-25% when stacked with
+micro-purchases and a certification. One caution: that is $1M of contract value, not profit.
+Services margins are 10-20%, and a $500k staffing contract needs $80-120k of cash float before
+the government pays. Stack the contracting route with the deal tracks and the union gets to
+roughly 15-25% for $1M gross within 12-18 months, with a median outcome of $150-300k in year one.
+Those are the numbers. I will not inflate them.
 
 ## What "think harder" actually yields
 
@@ -47,7 +54,18 @@ Everything else on the list is either a job with a big gross number (staffing), 
 (import, liens, notes), licensed (insurance, yachts, EB-5 commissions), or a lottery ticket
 (viral apps).
 
-## The plan: one engine, two big-check tracks, one lottery ticket
+3. **Government contracts, by teaming.** About 10,000 companies win their first federal contract
+   each year. Of the FY2025 set-aside winners the researcher checked, only 6-7% had no prior
+   federal history, and half of those were joint ventures. That is the pattern: a new firm
+   partners with an established small business under the joint-venture rules, which credit both
+   members' past performance, and bids as one. The agents monitor every portal 24/7, draft the
+   capability statements and proposals, and build the teaming target list. The Owner meets the
+   partner and the contracting officers. Certifications that can be had in under 90 days:
+   service-disabled veteran (12 days), HUBZone (60), woman-owned (90). The 8(a) program is frozen
+   and not a 12-month path. If the Owner is in New York and eligible for the state or city
+   minority- or women-owned business certification, agencies can award up to $1.5M with no bid.
+
+## The plan: one engine, three big-check tracks, one lottery ticket
 
 **Track 0, the cash engine (day 1).** Get-Paid: AI-run receivables recovery for QuickBooks
 businesses, performance-priced. It funds the marketing budget the big-check tracks need and it
@@ -72,6 +90,17 @@ credit purchases, about 800 names) and the seller list from energy and permit da
 mandates by day 60; that is the scarce side. First close month 4-6. One $10M credit at 1.25% is
 $125k. Realistic year one: 0-3 closings, $50-350k. Upside with one $40M credit: $500k-1M.
 
+**Track B2, government contracting by teaming (day 1).** Register in SAM.gov and the New York
+state and city vendor portals in week one. Agents build a list of 50 established small
+businesses in staffing, facilities, admin support, language services and IT with recent
+set-aside wins in the Owner's region, and draft the teaming pitch: we bring AI-run proposal
+capacity and 24/7 opportunity monitoring, they bring past performance. The Owner meets ten and
+signs one joint-venture or subcontract agreement by day 60. In parallel, agents bid every
+micro-purchase and simplified-acquisition opportunity under $350k the firm can perform, to build
+the first past-performance record. If the Owner qualifies for a certification, file it in
+week one. First award target: day 90-120. Line of credit or invoice factoring arranged before
+the first award so cash float does not kill the contract.
+
 **Track C, the lottery ticket (Lab).** Two product launches with $5k of creator seeding, run by
 the Lab agent with the kill rules from the product report: dead at under $1k/mo by day 60;
 double down at $5k/mo growing 30% a month. Expected value is small; the tail is where $1M ARR
@@ -83,9 +112,11 @@ and strategic exits live, and it costs the Owner almost no hours.
 |--------|----------------|-----|-------|
 | Land assignments | 20 | $15k | $300k |
 | Commercial assignments | 3 | $100k | $300k |
-| Tax-credit closings | 2 | $125k | $250k |
+| Tax-credit closings | 1 | $125k | $125k |
+| Government awards (contract value) | 2 | $400k | $800k |
 | Get-Paid and Grant Studio | 12 months | | $150k |
-| **Total** | | | **$1.0M** |
+| **Total gross and awarded** | | | **$1.7M** |
+| Of which profit, roughly | | | **$0.7-0.9M** |
 
 That table is the optimistic case, roughly a 1-in-10 outcome if everything is executed at full
 effort. The median case is one-third of it. Both cases leave the Owner with a deal-sourcing
@@ -113,6 +144,16 @@ machine, buyer relationships and a cash engine, which is what year two compounds
 - Day 180: no commercial fee and no tax-credit close, reprice the plan. `/decide` on whether to
   continue Track B.
 - Every Sunday: `/weekly` with the pipeline for all three tracks.
+
+## Questions that swing the odds, for the Owner
+
+- Are you a veteran, and if so service-disabled? (12-day certification; sole-source up to $5M.)
+- Would the business qualify as woman-owned, or minority-owned under New York's MWBE program?
+  (No-bid awards up to $1.5M from city and state agencies.)
+- Is your address in a HUBZone? (Check at the SBA map; 60-day certification.)
+- Do you speak Spanish?
+- Do you know one active commercial real estate buyer, one corporate tax director, one regional
+  CPA firm, or one small business that already holds government contracts?
 
 ## What would change the odds
 

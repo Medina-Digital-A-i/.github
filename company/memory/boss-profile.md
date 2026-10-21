@@ -47,6 +47,14 @@ changes. Nothing here leaves the repo.
   estate, international, finding and selling things, making connections. Wants the CEO to think
   harder. The 7-year plans are not acceptable as the primary plan.
 
+## Eligibility questions (these swing the 12-month odds more than anything else)
+- Veteran? Service-disabled?
+- Woman-owned? Minority-owned under New York MWBE rules?
+- Address in a HUBZone?
+- Spanish or other languages?
+- Anyone you know who: buys commercial real estate, runs tax at a company, owns a CPA firm, or
+  holds government contracts?
+
 ## Goals and constraints
 - Target net worth and by when:
 - Income needed per month to feel safe:
