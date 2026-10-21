@@ -6,7 +6,7 @@ changes. Nothing here leaves the repo.
 ## Basics
 - Name / what to call you:
 - Location (city, state): 
-- Time zone:
+- Time zone: America/New_York (from Google Calendar)
 - Hours per week available for the business:
 - Day job or other income (yes/no, rough amount):
 
