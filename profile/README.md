@@ -35,11 +35,6 @@ in this repository and are read by the team in every session.
 | Glue | n8n, Claude agents, launchd on a Mac mini |
 | Memory | This git repository |
 
-## Research line
-
-Autonomous trading research continues as a capped, fully logged experiment. It is not the business.
-The evidence on why is in `company/strategy/thesis.md`.
-
 ---
 
 *Built by agents. Owned by a human. Measured in answered calls.*

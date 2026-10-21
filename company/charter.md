@@ -26,7 +26,8 @@ for money, risk and anything irreversible.
 | Entity formation, bank, tax elections, contracts | proposes | yes, with CPA/attorney |
 | Pricing and offers | proposes | yes |
 | Sending anything to a real customer or the public | drafts | yes, until a written delegation in `decisions.md` |
-| Investing / trading real capital | proposes | yes, always |
+| Investing real capital (index funds per the wealth OS) | proposes | yes, always |
+| Trading of any kind | never. Owner decision 2026-10-21 | |
 
 ## Operating principles
 

@@ -15,12 +15,13 @@ revenue yet. No entity yet. Nothing shipped yet.
 - 90-day plan drafted. Week 1 starts the day the Owner approves.
 - Wealth OS drafted in `company/wealth/wealth-os.md`. Multi-model stack in `company/playbooks/`.
 - Agent team defined (7 agents). Slash commands live. Memory system live. Mac mini playbook written.
-- Org profile README repositioned away from "autonomous trading."
+- Trading removed from the company entirely. Owner decision 2026-10-21. Org profile repositioned.
 - Draft PR #1 open with all of the above.
 
 ## Next 3 moves
 
 1. Owner reads the thesis and the 90-day plan, approves or pushes back (`/decide` if torn).
+   Trading removal already approved.
 2. Owner fills in `company/memory/boss-profile.md` (skills, hours, cash, network, city).
 3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
 4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.

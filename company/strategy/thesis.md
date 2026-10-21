@@ -23,8 +23,9 @@ The org profile said "autonomous trading." The evidence says no:
 | Alpha Arena live LLM trading, Oct-Nov 2025 | 4 of 6 frontier models lost money; one lost over 60% |
 | "The Alpha Illusion," arXiv May 2026 | Reported LLM-agent alpha collapses after costs; underperforms buy-and-hold |
 
-With $0-5k of capital, even a real edge cannot compound to $1M on any sane timeline. Trading is
-capped at 10% of surplus cash, as a logged R&D experiment and content, never as the income plan.
+With $0-5k of capital, even a real edge cannot compound to $1M on any sane timeline. The Owner
+reviewed this evidence on 2026-10-21 and removed trading from the company entirely. Surplus cash
+goes to the index-fund waterfall. This section stays as the record of why.
 
 ## The business: the "Never Miss a Lead" stack
 
@@ -97,5 +98,3 @@ accept a slower clock.
 - The Owner already has a large engaged audience: start with software and digital products.
 - The Owner has deep insider knowledge of one vertical's software: go straight to vertical SaaS
   with pre-sold design partners.
-- A verified 12-month live trading record with cost-inclusive returns on real capital: trading
-  becomes a capital-allocation question for surplus cash. Still not the business.

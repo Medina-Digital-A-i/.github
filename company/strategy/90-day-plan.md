@@ -79,8 +79,8 @@ Mon `/brief` and dispatch. Tue-Thu outbound and delivery. Fri pipeline and numbe
 
 ## Capital at risk
 
-$300-1,200 total over 90 days: voice minutes, phone numbers, one platform seat, domain. Trading
-agents paused, or capped at $500 live with full public logging as content.
+$300-1,200 total over 90 days: voice minutes, phone numbers, one platform seat, domain. No other
+capital at risk.
 
 ## Kill criteria at day 60
 
