@@ -4,7 +4,8 @@ _Updated: 2026-10-21 (founding session)_
 
 ## Phase
 
-**Phase 0 — Founding.** Research done, strategy drafted, company operating system built. No
+**Phase 0 — Founding.** Operating system built. First thesis drafted and challenged by the Owner
+(too sales-heavy, pricing high). Deep research round 2 in progress to find a better plan. No
 revenue yet. No entity yet. Nothing shipped yet.
 
 ## Right now
@@ -25,6 +26,12 @@ revenue yet. No entity yet. Nothing shipped yet.
 2. Owner fills in `company/memory/boss-profile.md` (skills, hours, cash, network, city).
 3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
 4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.
+
+## Owner feedback on thesis v1 (2026-10-21)
+- Pricing felt high versus $49-299 apps. CEO proposed a lower launch ladder ($297/$797/$1,497).
+- Worried owners will build it themselves. Answered: maintenance and the owner's time are the moat.
+- Does not want heavy cold selling. Asked about dropshipping and arbitrage (rejected on base rates).
+- Wants more creative, deeper, PhD-level research and something that will work fast.
 
 ## Open questions for the Owner
 
