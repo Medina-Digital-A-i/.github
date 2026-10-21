@@ -28,6 +28,12 @@ entity, nothing shipped yet.
 3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
 4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.
 
+## Owner feedback on the morning brief (2026-10-21, morning)
+- Target restated: millions within 12 months or less. Seven-year paths rejected as primary.
+- Open to real estate, international, finding/selling, connections.
+- Round-3 research launched: deal-fee intermediation, international/cross-border, large contracts,
+  fast product launches. Each asked for base rates and the deals-needed math.
+
 ## Owner feedback on thesis v1 (2026-10-21)
 - Pricing felt high versus $49-299 apps. CEO proposed a lower launch ladder ($297/$797/$1,497).
 - Worried owners will build it themselves. Answered: maintenance and the owner's time are the moat.

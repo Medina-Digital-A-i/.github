@@ -43,6 +43,10 @@ changes. Nothing here leaves the repo.
   Mac mini is for. Explain in plain language, always.
 - 2026-10-21: Wants the CEO to always remember things. Memory system is the top priority.
 
+- 2026-10-21 (morning): "I need millions in a year or less. 7 years is too long." Open to real
+  estate, international, finding and selling things, making connections. Wants the CEO to think
+  harder. The 7-year plans are not acceptable as the primary plan.
+
 ## Goals and constraints
 - Target net worth and by when:
 - Income needed per month to feel safe:
