@@ -12,6 +12,7 @@ rates in the reports; the population base rate for $1M in 7 years from zero is u
 |---|------|-----|-------|--------|----|------|------|-------|-----------|
 | 1 | **Grant & Bid Studio** for small nonprofits, rural towns, set-aside contractors | 5 | 4 | 3 | 4 | 4 | 4 | 31.0 | 15-25% |
 | 2 | **Get-Paid**: accounts-receivable recovery for QuickBooks businesses, performance-priced | 5 | 4 | 3 | 5 | 3 | 4 | 30.5 | 15-25% |
+| 2 | **Boring Vertical SaaS**: self-serve AI tool for one unglamorous niche with an existing price list, found via search, directories and affiliates | 5 | 2 | 3 | 5 | 5 | 4 | 30.5 | 12-18% |
 | 3 | **Denial Desk**: insurance claim appeals for independent medical and dental practices, on contingency | 5 | 3 | 4 | 4 | 2 | 4 | 28.5 | 15-20% |
 | 4 | **Back Office to Buyout**: AI bookkeeping/CFO subscription, then buy a retiring bookkeeper's practice with seller financing | 4 | 2 | 4 | 4 | 3 | 5 | 28.5 | 15-20% |
 | 5 | **Home-Turf Tool**: vertical AI tool sold warm into the Owner's own former industry, install first, software second | 5 | 3 | 3 | 4 | 4 | 3 | 28.5 | 12-15% |
@@ -29,6 +30,16 @@ brokerage, immigration paperwork, translation and resume services (already repri
 faceless video, generic SEO, selling Claude skills (no billing rail).
 
 ## The ten, one paragraph each
+
+**2b. Boring Vertical SaaS.** The case-study report documented 30 AI-era companies from 2023-2026,
+23 of which crossed $1M. The pattern with the best odds for someone with no audience and no
+appetite for selling: a narrow tool that does one job for one unglamorous niche where buyers
+already pay a known price (Chatbase: $1M ARR in 117 days; Virtual Staging AI, sold to Zillow;
+Formula Bot; Castmagic). Rules from the winners: narrow job, 60-second demo, charge from day one,
+subscriptions not attention, go upmarket before the platform vendor copies you. Rules from the
+failures: thin wrappers die (fly.pieter.com, $87k MRR to zero), and the founder's nervous system is
+the real capacity limit of a one-person company (Talknotes). In thesis v2 this is the software
+rung: the tool we build for bookkeepers and nonprofits once five clients share a workflow.
 
 **1. Grant & Bid Studio.** 588,000 US nonprofits have budgets under $1M and no grant writer.
 40% of state and local government solicitations draw fewer than three bids. 83% of one federal
@@ -102,5 +113,8 @@ jobs: find three SBIR topics that fit, and run small experiments that improve ou
   ones: money owed, money available, money denied.
 - Buying a business beats starting one for reaching seven figures of equity, but requires $75-150k
   first. So the cash business exists to fund the acquisition.
+- The documented $1M+ cases that fit this profile were products, not agencies: narrow, priced from
+  day one, sold self-serve. Services get us the cash and the workflow knowledge; the product is
+  where the asset value is.
 - Ideas 1, 2, 3 and 4 share one buyer: owner-operated organizations with QuickBooks, a bookkeeper,
   and no CFO. They share one channel: bookkeepers and CPAs who refer. That is a company, not a list.

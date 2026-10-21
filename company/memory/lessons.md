@@ -1,5 +1,11 @@
 # Lessons
 
+## 2026-10-21 — From 30 documented AI-era cases
+- Attention revenue does not renew. Subscriptions do. Thin wrappers die when the platform copies them.
+- The founder's nervous system is the capacity limit of a one-person company. Protect the Owner's
+  energy like a balance-sheet asset.
+- Narrow job, 60-second demo, charge from day one. That is the product playbook.
+
 ## 2026-10-21 — The Owner is a builder, not just a buyer
 - The Owner wants to solve problems, do science and research, and make things. Plans must give
   them a maker's role. Explain every tool in plain language before assuming it is understood.

@@ -33,8 +33,10 @@ experiments and R&D grants so the Owner builds and discovers, not just approves.
 3. **Months 9-18, asset:** bank 50% of profit into an acquisition fund. Buy a $150-300k
    bookkeeping or tax practice from a retiring owner with seller financing. Run its back office
    with agents.
-4. **Years 2-4, roll-up:** add Denial Desk for the medical practices in the book. Add two more
-   practices. Convert the shared workflows into software.
+4. **Years 2-4, roll-up and product:** add Denial Desk for the medical practices in the book. Add
+   two more practices. Convert the shared workflows into a self-serve tool, built the way the
+   documented winners did it: one narrow job, a 60-second demo, charge from day one,
+   subscriptions, go upmarket before a platform vendor copies it.
 5. **Years 5-7, exit or hold:** a bookkeeping group with AI delivery and a software layer is a
    $1M+ asset on the evidence, on top of the cash saved along the way.
 
