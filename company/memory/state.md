@@ -22,8 +22,8 @@ entity, nothing shipped yet.
 
 ## Next 3 moves
 
-1. Owner reads `company/strategy/idea-bank.md` and `thesis-v2.md`, picks v2, v1, or a different
-   idea from the bank (`/decide` if torn).
+1. Owner reads `company/strategy/operation-12-months.md` (the fast plan, with honest odds) and
+   decides: run it, or run the slower `thesis-v2.md`. `/decide` if torn.
 2. Owner fills in `company/memory/boss-profile.md` (skills, hours, cash, network, city).
 3. Owner merges PR #1 so the memory reaches `main` and the Mac mini can read it.
 4. Day 1 of the plan: pick the vertical (home services vs dental), domain, phone number, bank account.
